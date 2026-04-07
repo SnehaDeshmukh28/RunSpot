@@ -25,9 +25,19 @@ That tiny thing changed everything.
 - Open-Meteo (free weather API)
 
 ## Screenshots
-![Home](screenshots/home.jpg)
-![Discover](screenshots/discover.jpg)
-![History](screenshots/history.jpg)
+
+<table>
+  <tr>
+    <td align="center"><b>Home</b></td>
+    <td align="center"><b>Discover</b></td>
+    <td align="center"><b>History</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/home.jpg" width="220"/></td>
+    <td><img src="screenshots/discover.jpg" width="220"/></td>
+    <td><img src="screenshots/history.jpg" width="220"/></td>
+  </tr>
+</table>
 
 ## Setup
 1. Clone this repo
