@@ -9,8 +9,6 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-[![Stars](https://img.shields.io/github/stars/SnehaDeshmukh28/RunSpot?style=social)](https://github.com/SnehaDeshmukh28/RunSpot/stargazers)
-[![Forks](https://img.shields.io/github/forks/SnehaDeshmukh28/RunSpot?style=social)](https://github.com/SnehaDeshmukh28/RunSpot/forks)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 </div>
